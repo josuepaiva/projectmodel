@@ -1,4 +1,4 @@
-# projectmodel
+# Tutorial Editorconfig
 
 Este projeto tem como objetivo ensinar programadores a configurar e usar a ferramenta editorconfig
 
